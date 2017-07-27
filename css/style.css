@@ -304,7 +304,8 @@ a {
 }
 .footer_grid h3{
     color: #212121;
-    background:green;
+    background: green;
+    padding-right:0;
     font-size: 1.5em;
     margin-bottom: 2em;
     padding-bottom: .5em;
